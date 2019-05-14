@@ -1,11 +1,1 @@
-<div><p>You are given two <b>non-empty</b> linked lists representing two non-negative integers. The digits are stored in <b>reverse order</b> and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.</p>
-
-<p>You may assume the two numbers do not contain any leading zero, except the number 0 itself.</p>
-
-<p><b>Example:</b></p>
-
-<pre><b>Input:</b> (2 -&gt; 4 -&gt; 3) + (5 -&gt; 6 -&gt; 4)
-<b>Output:</b> 7 -&gt; 0 -&gt; 8
-<b>Explanation:</b> 342 + 465 = 807.
-</pre>
-</div>
+<div class="container__nthg"><div class="info__2oQ9"><span>Runtime:&nbsp;<span class="data__HC-i">28 ms</span><span>, faster than <span class="data__HC-i">93.39%</span> of C++ online submissions for Add Two Numbers.</span></span></div><div class="info__2oQ9"><span>Memory Usage:&nbsp;<span class="data__HC-i">10.3 MB</span><span>, less than <span class="data__HC-i">84.02%</span> of C++ online submissions for Add Two Numbers.</span></span></div></div>
